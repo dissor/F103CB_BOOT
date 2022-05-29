@@ -1,0 +1,5 @@
+.svn/
+MDK-ARM/*
+!MDK-ARM/IAP_A51x.uvoptx
+!MDK-ARM/IAP_A51x.uvprojx
+!MDK-ARM/startup_stm32f103xb.s
