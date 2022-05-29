@@ -9,7 +9,8 @@
 
 等级3，流缓冲8K，开始解压保护，压缩顺序每包1024字节
 
+# 参考手册
 
-
+[http://www.quicklz.com/manual.html](http://www.quicklz.com/manual.html)
 
 
